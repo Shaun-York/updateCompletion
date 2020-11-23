@@ -1,0 +1,14 @@
+{
+  "name": "awslambdaupcompletion",
+  "version": "1.0.0",
+  "description": "Add completion id from netsuite to db rm on last completion",
+  "main": "index.js",
+  "author": "syork@numomfg.com",
+  "license": "MIT",
+  "scripts": {
+    "zip": "zip -r fiUpdateCompletion.zip ."
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
